@@ -1,0 +1,948 @@
+{
+  "elements": [
+    {
+      "number": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "electron_configuration": "1s1",
+      "electron_configuration_semantic": "1s1",
+      "shells": [1]
+    },
+    {
+      "number": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "electron_configuration": "1s2",
+      "electron_configuration_semantic": "1s2",
+      "shells": [2]
+    },
+    {
+      "number": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "electron_configuration": "1s2 2s1",
+      "electron_configuration_semantic": "[He] 2s1",
+      "shells": [2, 1]
+    },
+    {
+      "number": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "electron_configuration": "1s2 2s2",
+      "electron_configuration_semantic": "[He] 2s2",
+      "shells": [2, 2]
+    },
+    {
+      "number": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "electron_configuration": "1s2 2s2 2p1",
+      "electron_configuration_semantic": "[He] 2s2 2p1",
+      "shells": [2, 3]
+    },
+    {
+      "number": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "electron_configuration": "1s2 2s2 2p2",
+      "electron_configuration_semantic": "[He] 2s2 2p2",
+      "shells": [2, 4]
+    },
+    {
+      "number": 7,
+      "symbol": "N",
+      "name": "Nitrogen",
+      "electron_configuration": "1s2 2s2 2p3",
+      "electron_configuration_semantic": "[He] 2s2 2p3",
+      "shells": [2, 5]
+    },
+    {
+      "number": 8,
+      "symbol": "O",
+      "name": "Oxygen",
+      "electron_configuration": "1s2 2s2 2p4",
+      "electron_configuration_semantic": "[He] 2s2 2p4",
+      "shells": [2, 6]
+    },
+    {
+      "number": 9,
+      "symbol": "F",
+      "name": "Fluorine",
+      "electron_configuration": "1s2 2s2 2p5",
+      "electron_configuration_semantic": "[He] 2s2 2p5",
+      "shells": [2, 7]
+    },
+    {
+      "number": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "electron_configuration": "1s2 2s2 2p6",
+      "electron_configuration_semantic": "[He] 2s2 2p6",
+      "shells": [2, 8]
+    },
+    {
+      "number": 11,
+      "symbol": "Na",
+      "name": "Sodium",
+      "electron_configuration": "1s2 2s2 2p6 3s1",
+      "electron_configuration_semantic": "[Ne] 3s1",
+      "shells": [2, 8, 1]
+    },
+    {
+      "number": 12,
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "electron_configuration": "1s2 2s2 2p6 3s2",
+      "electron_configuration_semantic": "[Ne] 3s2",
+      "shells": [2, 8, 2]
+    },
+    {
+      "number": 13,
+      "symbol": "Al",
+      "name": "Aluminium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p1",
+      "electron_configuration_semantic": "[Ne] 3s2 3p1",
+      "shells": [2, 8, 3]
+    },
+    {
+      "number": 14,
+      "symbol": "Si",
+      "name": "Silicon",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p2",
+      "electron_configuration_semantic": "[Ne] 3s2 3p2",
+      "shells": [2, 8, 4]
+    },
+    {
+      "number": 15,
+      "symbol": "P",
+      "name": "Phosphorus",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p3",
+      "electron_configuration_semantic": "[Ne] 3s2 3p3",
+      "shells": [2, 8, 5]
+    },
+    {
+      "number": 16,
+      "symbol": "S",
+      "name": "Sulfur",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p4",
+      "electron_configuration_semantic": "[Ne] 3s2 3p4",
+      "shells": [2, 8, 6]
+    },
+    {
+      "number": 17,
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p5",
+      "electron_configuration_semantic": "[Ne] 3s2 3p5",
+      "shells": [2, 8, 7]
+    },
+    {
+      "number": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6",
+      "electron_configuration_semantic": "[Ne] 3s2 3p6",
+      "shells": [2, 8, 8]
+    },
+    {
+      "number": 19,
+      "symbol": "K",
+      "name": "Potassium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s1",
+      "electron_configuration_semantic": "[Ar] 4s1",
+      "shells": [2, 8, 8, 1]
+    },
+    {
+      "number": 20,
+      "symbol": "Ca",
+      "name": "Calcium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2",
+      "electron_configuration_semantic": "[Ar] 4s2",
+      "shells": [2, 8, 8, 2]
+    },
+    {
+      "number": 21,
+      "symbol": "Sc",
+      "name": "Scandium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d1 4s2",
+      "electron_configuration_semantic": "[Ar] 3d1 4s2",
+      "shells": [2, 8, 9, 2]
+    },
+    {
+      "number": 22,
+      "symbol": "Ti",
+      "name": "Titanium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d2 4s2",
+      "electron_configuration_semantic": "[Ar] 3d2 4s2",
+      "shells": [2, 8, 10, 2]
+    },
+    {
+      "number": 23,
+      "symbol": "V",
+      "name": "Vanadium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d3 4s2",
+      "electron_configuration_semantic": "[Ar] 3d3 4s2",
+      "shells": [2, 8, 11, 2]
+    },
+    {
+      "number": 24,
+      "symbol": "Cr",
+      "name": "Chromium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d5 4s1",
+      "electron_configuration_semantic": "[Ar] 3d5 4s1",
+      "shells": [2, 8, 13, 1]
+    },
+    {
+      "number": 25,
+      "symbol": "Mn",
+      "name": "Manganese",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d5 4s2",
+      "electron_configuration_semantic": "[Ar] 3d5 4s2",
+      "shells": [2, 8, 13, 2]
+    },
+    {
+      "number": 26,
+      "symbol": "Fe",
+      "name": "Iron",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d6 4s2",
+      "electron_configuration_semantic": "[Ar] 3d6 4s2",
+      "shells": [2, 8, 14, 2]
+    },
+    {
+      "number": 27,
+      "symbol": "Co",
+      "name": "Cobalt",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d7 4s2",
+      "electron_configuration_semantic": "[Ar] 3d7 4s2",
+      "shells": [2, 8, 15, 2]
+    },
+    {
+      "number": 28,
+      "symbol": "Ni",
+      "name": "Nickel",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d8 4s2",
+      "electron_configuration_semantic": "[Ar] 3d8 4s2",
+      "shells": [2, 8, 16, 2]
+    },
+    {
+      "number": 29,
+      "symbol": "Cu",
+      "name": "Copper",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s1",
+      "electron_configuration_semantic": "[Ar] 3d10 4s1",
+      "shells": [2, 8, 18, 1]
+    },
+    {
+      "number": 30,
+      "symbol": "Zn",
+      "name": "Zinc",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2",
+      "shells": [2, 8, 18, 2]
+    },
+    {
+      "number": 31,
+      "symbol": "Ga",
+      "name": "Gallium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p1",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p1",
+      "shells": [2, 8, 18, 3]
+    },
+    {
+      "number": 32,
+      "symbol": "Ge",
+      "name": "Germanium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p2",
+      "shells": [2, 8, 18, 4]
+    },
+    {
+      "number": 33,
+      "symbol": "As",
+      "name": "Arsenic",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p3",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p3",
+      "shells": [2, 8, 18, 5]
+    },
+    {
+      "number": 34,
+      "symbol": "Se",
+      "name": "Selenium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p4",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p4",
+      "shells": [2, 8, 18, 6]
+    },
+    {
+      "number": 35,
+      "symbol": "Br",
+      "name": "Bromine",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p5",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p5",
+      "shells": [2, 8, 18, 7]
+    },
+    {
+      "number": 36,
+      "symbol": "Kr",
+      "name": "Krypton",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6",
+      "electron_configuration_semantic": "[Ar] 3d10 4s2 4p6",
+      "shells": [2, 8, 18, 8]
+    },
+    {
+      "number": 37,
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s1",
+      "electron_configuration_semantic": "[Kr] 5s1",
+      "shells": [2, 8, 18, 8, 1]
+    },
+    {
+      "number": 38,
+      "symbol": "Sr",
+      "name": "Strontium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s2",
+      "electron_configuration_semantic": "[Kr] 5s2",
+      "shells": [2, 8, 18, 8, 2]
+    },
+    {
+      "number": 39,
+      "symbol": "Y",
+      "name": "Yttrium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d1 5s2",
+      "electron_configuration_semantic": "[Kr] 4d1 5s2",
+      "shells": [2, 8, 18, 9, 2]
+    },
+    {
+      "number": 40,
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d2 5s2",
+      "electron_configuration_semantic": "[Kr] 4d2 5s2",
+      "shells": [2, 8, 18, 10, 2]
+    },
+    {
+      "number": 41,
+      "symbol": "Nb",
+      "name": "Niobium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d4 5s1",
+      "electron_configuration_semantic": "[Kr] 4d4 5s1",
+      "shells": [2, 8, 18, 12, 1]
+    },
+    {
+      "number": 42,
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d5 5s1",
+      "electron_configuration_semantic": "[Kr] 4d5 5s1",
+      "shells": [2, 8, 18, 13, 1]
+    },
+    {
+      "number": 43,
+      "symbol": "Tc",
+      "name": "Technetium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d5 5s2",
+      "electron_configuration_semantic": "[Kr] 4d5 5s2",
+      "shells": [2, 8, 18, 13, 2]
+    },
+    {
+      "number": 44,
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d7 5s1",
+      "electron_configuration_semantic": "[Kr] 4d7 5s1",
+      "shells": [2, 8, 18, 15, 1]
+    },
+    {
+      "number": 45,
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d8 5s1",
+      "electron_configuration_semantic": "[Kr] 4d8 5s1",
+      "shells": [2, 8, 18, 16, 1]
+    },
+    {
+      "number": 46,
+      "symbol": "Pd",
+      "name": "Palladium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10",
+      "electron_configuration_semantic": "[Kr] 4d10",
+      "shells": [2, 8, 18, 18, 0]
+    },
+    {
+      "number": 47,
+      "symbol": "Ag",
+      "name": "Silver",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s1",
+      "electron_configuration_semantic": "[Kr] 4d10 5s1",
+      "shells": [2, 8, 18, 18, 1]
+    },
+    {
+      "number": 48,
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2",
+      "shells": [2, 8, 18, 18, 2]
+    },
+    {
+      "number": 49,
+      "symbol": "In",
+      "name": "Indium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p1",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p1",
+      "shells": [2, 8, 18, 18, 3]
+    },
+    {
+      "number": 50,
+      "symbol": "Sn",
+      "name": "Tin",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p2",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p2",
+      "shells": [2, 8, 18, 18, 4]
+    },
+    {
+      "number": 51,
+      "symbol": "Sb",
+      "name": "Antimony",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p3",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p3",
+      "shells": [2, 8, 18, 18, 5]
+    },
+    {
+      "number": 52,
+      "symbol": "Te",
+      "name": "Tellurium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p4",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p4",
+      "shells": [2, 8, 18, 18, 6]
+    },
+    {
+      "number": 53,
+      "symbol": "I",
+      "name": "Iodine",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p5",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p5",
+      "shells": [2, 8, 18, 18, 7]
+    },
+    {
+      "number": 54,
+      "symbol": "Xe",
+      "name": "Xenon",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6",
+      "electron_configuration_semantic": "[Kr] 4d10 5s2 5p6",
+      "shells": [2, 8, 18, 18, 8]
+    },
+    {
+      "number": 55,
+      "symbol": "Cs",
+      "name": "Caesium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s1",
+      "electron_configuration_semantic": "[Xe] 6s1",
+      "shells": [2, 8, 18, 18, 8, 1]
+    },
+    {
+      "number": 56,
+      "symbol": "Ba",
+      "name": "Barium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s2",
+      "electron_configuration_semantic": "[Xe] 6s2",
+      "shells": [2, 8, 18, 18, 8, 2]
+    },
+    {
+      "number": 57,
+      "symbol": "La",
+      "name": "Lanthanum",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 5d1 6s2",
+      "electron_configuration_semantic": "[Xe] 5d1 6s2",
+      "shells": [2, 8, 18, 18, 9, 2]
+    },
+    {
+      "number": 58,
+      "symbol": "Ce",
+      "name": "Cerium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f1 5d1 6s2",
+      "electron_configuration_semantic": "[Xe] 4f1 5d1 6s2",
+      "shells": [2, 8, 18, 19, 9, 2]
+    },
+    {
+      "number": 59,
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f3 6s2",
+      "electron_configuration_semantic": "[Xe] 4f3 6s2",
+      "shells": [2, 8, 18, 21, 8, 2]
+    },
+    {
+      "number": 60,
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f4 6s2",
+      "electron_configuration_semantic": "[Xe] 4f4 6s2",
+      "shells": [2, 8, 18, 22, 8, 2]
+    },
+    {
+      "number": 61,
+      "symbol": "Pm",
+      "name": "Promethium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f5 6s2",
+      "electron_configuration_semantic": "[Xe] 4f5 6s2",
+      "shells": [2, 8, 18, 23, 8, 2]
+    },
+    {
+      "number": 62,
+      "symbol": "Sm",
+      "name": "Samarium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f6 6s2",
+      "electron_configuration_semantic": "[Xe] 4f6 6s2",
+      "shells": [2, 8, 18, 24, 8, 2]
+    },
+    {
+      "number": 63,
+      "symbol": "Eu",
+      "name": "Europium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f7 6s2",
+      "electron_configuration_semantic": "[Xe] 4f7 6s2",
+      "shells": [2, 8, 18, 25, 8, 2]
+    },
+    {
+      "number": 64,
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f7 5d1 6s2",
+      "electron_configuration_semantic": "[Xe] 4f7 5d1 6s2",
+      "shells": [2, 8, 18, 25, 9, 2]
+    },
+    {
+      "number": 65,
+      "symbol": "Tb",
+      "name": "Terbium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f9 6s2",
+      "electron_configuration_semantic": "[Xe] 4f9 6s2",
+      "shells": [2, 8, 18, 27, 8, 2]
+    },
+    {
+      "number": 66,
+      "symbol": "Dy",
+      "name": "Dysprosium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f10 6s2",
+      "electron_configuration_semantic": "[Xe] 4f10 6s2",
+      "shells": [2, 8, 18, 28, 8, 2]
+    },
+    {
+      "number": 67,
+      "symbol": "Ho",
+      "name": "Holmium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f11 6s2",
+      "electron_configuration_semantic": "[Xe] 4f11 6s2",
+      "shells": [2, 8, 18, 29, 8, 2]
+    },
+    {
+      "number": 68,
+      "symbol": "Er",
+      "name": "Erbium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f12 6s2",
+      "electron_configuration_semantic": "[Xe] 4f12 6s2",
+      "shells": [2, 8, 18, 30, 8, 2]
+    },
+    {
+      "number": 69,
+      "symbol": "Tm",
+      "name": "Thulium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f13 6s2",
+      "electron_configuration_semantic": "[Xe] 4f13 6s2",
+      "shells": [2, 8, 18, 31, 8, 2]
+    },
+    {
+      "number": 70,
+      "symbol": "Yb",
+      "name": "Ytterbium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 6s2",
+      "shells": [2, 8, 18, 32, 8, 2]
+    },
+    {
+      "number": 71,
+      "symbol": "Lu",
+      "name": "Lutetium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d1 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d1 6s2",
+      "shells": [2, 8, 18, 32, 9, 2]
+    },
+    {
+      "number": 72,
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d2 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d2 6s2",
+      "shells": [2, 8, 18, 32, 10, 2]
+    },
+    {
+      "number": 73,
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d3 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d3 6s2",
+      "shells": [2, 8, 18, 32, 11, 2]
+    },
+    {
+      "number": 74,
+      "symbol": "W",
+      "name": "Tungsten",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d4 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d4 6s2",
+      "shells": [2, 8, 18, 32, 12, 2]
+    },
+    {
+      "number": 75,
+      "symbol": "Re",
+      "name": "Rhenium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d5 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d5 6s2",
+      "shells": [2, 8, 18, 32, 13, 2]
+    },
+    {
+      "number": 76,
+      "symbol": "Os",
+      "name": "Osmium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d6 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d6 6s2",
+      "shells": [2, 8, 18, 32, 14, 2]
+    },
+    {
+      "number": 77,
+      "symbol": "Ir",
+      "name": "Iridium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d7 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d7 6s2",
+      "shells": [2, 8, 18, 32, 15, 2]
+    },
+    {
+      "number": 78,
+      "symbol": "Pt",
+      "name": "Platinum",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d9 6s1",
+      "electron_configuration_semantic": "[Xe] 4f14 5d9 6s1",
+      "shells": [2, 8, 18, 32, 17, 1]
+    },
+    {
+      "number": 79,
+      "symbol": "Au",
+      "name": "Gold",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s1",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s1",
+      "shells": [2, 8, 18, 32, 18, 1]
+    },
+    {
+      "number": 80,
+      "symbol": "Hg",
+      "name": "Mercury",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2",
+      "shells": [2, 8, 18, 32, 18, 2]
+    },
+    {
+      "number": 81,
+      "symbol": "Tl",
+      "name": "Thallium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p1",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p1",
+      "shells": [2, 8, 18, 32, 18, 3]
+    },
+    {
+      "number": 82,
+      "symbol": "Pb",
+      "name": "Lead",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p2",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p2",
+      "shells": [2, 8, 18, 32, 18, 4]
+    },
+    {
+      "number": 83,
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p3",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p3",
+      "shells": [2, 8, 18, 32, 18, 5]
+    },
+    {
+      "number": 84,
+      "symbol": "Po",
+      "name": "Polonium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p4",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p4",
+      "shells": [2, 8, 18, 32, 18, 6]
+    },
+    {
+      "number": 85,
+      "symbol": "At",
+      "name": "Astatine",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p5",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p5",
+      "shells": [2, 8, 18, 32, 18, 7]
+    },
+    {
+      "number": 86,
+      "symbol": "Rn",
+      "name": "Radon",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6",
+      "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p6",
+      "shells": [2, 8, 18, 32, 18, 8]
+    },
+    {
+      "number": 87,
+      "symbol": "Fr",
+      "name": "Francium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s1",
+      "electron_configuration_semantic": "[Rn] 7s1",
+      "shells": [2, 8, 18, 32, 18, 8, 1]
+    },
+    {
+      "number": 88,
+      "symbol": "Ra",
+      "name": "Radium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s2",
+      "electron_configuration_semantic": "[Rn] 7s2",
+      "shells": [2, 8, 18, 32, 18, 8, 2]
+    },
+    {
+      "number": 89,
+      "symbol": "Ac",
+      "name": "Actinium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 6d1 7s2",
+      "shells": [2, 8, 18, 32, 18, 9, 2]
+    },
+    {
+      "number": 90,
+      "symbol": "Th",
+      "name": "Thorium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 6d2 7s2",
+      "electron_configuration_semantic": "[Rn] 6d2 7s2",
+      "shells": [2, 8, 18, 32, 18, 10, 2]
+    },
+    {
+      "number": 91,
+      "symbol": "Pa",
+      "name": "Protactinium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f2 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 5f2 6d1 7s2",
+      "shells": [2, 8, 18, 32, 20, 9, 2]
+    },
+    {
+      "number": 92,
+      "symbol": "U",
+      "name": "Uranium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f3 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 5f3 6d1 7s2",
+      "shells": [2, 8, 18, 32, 21, 9, 2]
+    },
+    {
+      "number": 93,
+      "symbol": "Np",
+      "name": "Neptunium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f4 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 5f4 6d1 7s2",
+      "shells": [2, 8, 18, 32, 22, 9, 2]
+    },
+    {
+      "number": 94,
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f6 7s2",
+      "electron_configuration_semantic": "[Rn] 5f6 7s2",
+      "shells": [2, 8, 18, 32, 24, 8, 2]
+    },
+    {
+      "number": 95,
+      "symbol": "Am",
+      "name": "Americium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f7 7s2",
+      "electron_configuration_semantic": "[Rn] 5f7 7s2",
+      "shells": [2, 8, 18, 32, 25, 8, 2]
+    },
+    {
+      "number": 96,
+      "symbol": "Cm",
+      "name": "Curium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f7 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 5f7 6d1 7s2",
+      "shells": [2, 8, 18, 32, 25, 9, 2]
+    },
+    {
+      "number": 97,
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f9 7s2",
+      "electron_configuration_semantic": "[Rn] 5f9 7s2",
+      "shells": [2, 8, 18, 32, 27, 8, 2]
+    },
+    {
+      "number": 98,
+      "symbol": "Cf",
+      "name": "Californium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f10 7s2",
+      "electron_configuration_semantic": "[Rn] 5f10 7s2",
+      "shells": [2, 8, 18, 32, 28, 8, 2]
+    },
+    {
+      "number": 99,
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f11 7s2",
+      "electron_configuration_semantic": "[Rn] 5f11 7s2",
+      "shells": [2, 8, 18, 32, 29, 8, 2]
+    },
+    {
+      "number": 100,
+      "symbol": "Fm",
+      "name": "Fermium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f12 7s2",
+      "electron_configuration_semantic": "[Rn] 5f12 7s2",
+      "shells": [2, 8, 18, 32, 30, 8, 2]
+    },
+    {
+      "number": 101,
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f13 7s2",
+      "electron_configuration_semantic": "[Rn] 5f13 7s2",
+      "shells": [2, 8, 18, 32, 31, 8, 2]
+    },
+    {
+      "number": 102,
+      "symbol": "No",
+      "name": "Nobelium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 7s2",
+      "shells": [2, 8, 18, 32, 32, 8, 2]
+    },
+    {
+      "number": 103,
+      "symbol": "Lr",
+      "name": "Lawrencium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d1 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d1 7s2",
+      "shells": [2, 8, 18, 32, 32, 9, 2]
+    },
+    {
+      "number": 104,
+      "symbol": "Rf",
+      "name": "Rutherfordium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d2 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d2 7s2",
+      "shells": [2, 8, 18, 32, 32, 10, 2]
+    },
+    {
+      "number": 105,
+      "symbol": "Db",
+      "name": "Dubnium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d3 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d3 7s2",
+      "shells": [2, 8, 18, 32, 32, 11, 2]
+    },
+    {
+      "number": 106,
+      "symbol": "Sg",
+      "name": "Seaborgium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d4 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d4 7s2",
+      "shells": [2, 8, 18, 32, 32, 12, 2]
+    },
+    {
+      "number": 107,
+      "symbol": "Bh",
+      "name": "Bohrium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d5 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d5 7s2",
+      "shells": [2, 8, 18, 32, 32, 13, 2]
+    },
+    {
+      "number": 108,
+      "symbol": "Hs",
+      "name": "Hassium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d6 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d6 7s2",
+      "shells": [2, 8, 18, 32, 32, 14, 2]
+    },
+    {
+      "number": 109,
+      "symbol": "Mt",
+      "name": "Meitnerium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d7 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d7 7s2",
+      "shells": [2, 8, 18, 32, 32, 15, 2]
+    },
+    {
+      "number": 110,
+      "symbol": "Ds",
+      "name": "Darmstadtium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d9 7s1",
+      "electron_configuration_semantic": "[Rn] 5f14 6d9 7s1",
+      "shells": [2, 8, 18, 32, 32, 17, 1]
+    },
+    {
+      "number": 111,
+      "symbol": "Rg",
+      "name": "Roentgenium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s1",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s1",
+      "shells": [2, 8, 18, 32, 32, 18, 1]
+    },
+    {
+      "number": 112,
+      "symbol": "Cn",
+      "name": "Copernicium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2",
+      "shells": [2, 8, 18, 32, 32, 18, 2]
+    },
+    {
+      "number": 113,
+      "symbol": "Nh",
+      "name": "Nihonium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p1",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p1",
+      "shells": [2, 8, 18, 32, 32, 18, 3]
+    },
+    {
+      "number": 114,
+      "symbol": "Fl",
+      "name": "Flerovium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p2",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p2",
+      "shells": [2, 8, 18, 32, 32, 18, 4]
+    },
+    {
+      "number": 115,
+      "symbol": "Mc",
+      "name": "Moscovium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p3",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p3",
+      "shells": [2, 8, 18, 32, 32, 18, 5]
+    },
+    {
+      "number": 116,
+      "symbol": "Lv",
+      "name": "Livermorium",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p4",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p4",
+      "shells": [2, 8, 18, 32, 32, 18, 6]
+    },
+    {
+      "number": 117,
+      "symbol": "Ts",
+      "name": "Tennessine",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p5",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p5",
+      "shells": [2, 8, 18, 32, 32, 18, 7]
+    },
+    {
+      "number": 118,
+      "symbol": "Og",
+      "name": "Oganesson",
+      "electron_configuration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2 7p6",
+      "electron_configuration_semantic": "[Rn] 5f14 6d10 7s2 7p6",
+      "shells": [2, 8, 18, 32, 32, 18, 8]
+    }
+  ]
+}
