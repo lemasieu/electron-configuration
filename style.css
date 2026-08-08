@@ -1,0 +1,164 @@
+/* Reset và nền tối */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    background-color: #1e1e1e;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    border: 1px solid #333;
+}
+
+h1 {
+    text-align: center;
+    color: #bb86fc;
+    margin-bottom: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+/* Hộp tìm kiếm */
+.search-box {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+#searchInput {
+    flex: 1;
+    padding: 14px 20px;
+    background-color: #2c2c2c;
+    border: 1px solid #444;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #f0f0f0;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#searchInput:focus {
+    border-color: #bb86fc;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(187, 134, 252, 0.3);
+}
+
+#searchInput::placeholder {
+    color: #888;
+}
+
+#searchBtn {
+    padding: 14px 30px;
+    background-color: #bb86fc;
+    color: #121212;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+#searchBtn:hover {
+    background-color: #9f6fdf;
+}
+
+#searchBtn:active {
+    transform: scale(0.97);
+}
+
+/* Khu vực kết quả */
+#result {
+    background-color: #252525;
+    padding: 20px 24px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    min-height: 120px;
+    line-height: 1.7;
+    border-left: 4px solid #bb86fc;
+}
+
+#result h2 {
+    margin-top: 0;
+    color: #e0e0e0;
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+
+#result p {
+    margin: 10px 0;
+}
+
+#result strong {
+    color: #bb86fc;
+}
+
+/* Danh sách nguyên tố dạng lưới */
+#elementList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 14px;
+}
+
+.element-item {
+    background-color: #2a2a2a;
+    padding: 14px 10px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid #3a3a3a;
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
+}
+
+.element-item:hover {
+    transform: translateY(-4px);
+    background-color: #333;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.4);
+    border-color: #bb86fc;
+}
+
+.element-item .symbol {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #bb86fc;
+}
+
+.element-item .number {
+    font-size: 0.85em;
+    color: #888;
+    margin-top: 4px;
+}
+
+.element-item .name {
+    font-size: 0.95em;
+    color: #ccc;
+    margin-top: 2px;
+}
+
+/* Responsive nhỏ */
+@media (max-width: 600px) {
+    .container {
+        padding: 16px;
+    }
+    #elementList {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+    .search-box {
+        flex-direction: column;
+    }
+    #searchBtn {
+        width: 100%;
+    }
+}
